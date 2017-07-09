@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Treasure Island",
-  "type": "text"
+  "type": "text",
+  "book_id": 470
 }
